@@ -1,0 +1,36 @@
+head {
+	position: absolute;
+}
+
+body {
+	position: float;
+	font-family: impact, helvetica, sans-serif;
+	background-color: #d7f2f6;
+}
+
+.announcementbox {
+	position: float;
+	width: 30%;
+	float: left;
+	text-align: left;
+	line-height: 30px;
+	border: 200px black;
+	box-sizing: border-box;
+}
+
+.newsbox {
+	position: float;
+	width: 30%;
+	float: right;
+	text-align: left;
+	line-height: 30px;
+	margin: 0 10px 0 0;
+	box-sizing: border-box;
+}
+
+
+footer {
+	position: relative;
+	top: 0px;
+    box-sizing: border-box;
+}
